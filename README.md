@@ -73,8 +73,7 @@ UNET_project/
 │   ├── prediction_2.png
 │   ├── prediction_3.png
 │   ├── prediction_4.png
-│   ├── prediction_5.png
-│   └── UNET_architecture.png
+│   └── prediction_5.png
 │
 ├── split_dataset.py
 ├── UNET_config.py
@@ -82,6 +81,7 @@ UNET_project/
 ├── UNET_model.py
 ├── UNET_seed.py
 ├── UNET_train.py
+├── UNET_architecture.png
 └── README.md
 ```
 
