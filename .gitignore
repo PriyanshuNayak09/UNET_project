@@ -1,0 +1,15 @@
+# Dataset
+UNET_data/
+
+# Model checkpoints
+checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
