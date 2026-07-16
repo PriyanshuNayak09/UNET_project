@@ -357,5 +357,3 @@ plot_history(history)
 save_predictions(val_loader, model, config.DEVICE)
 
 print("\nTraining Completed!")
-print("Graphs saved to:", config.RESULTS_DIR)
-print("Prediction images saved to:", config.COMPARISON_DIR)

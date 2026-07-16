@@ -22,7 +22,7 @@ VAL_MASK_DIR = "UNET_data/val_masks"
 # ==========================================================
 LEARNING_RATE = 1e-4
 BATCH_SIZE = 16
-NUM_EPOCHS = 10
+NUM_EPOCHS = 20
 
 # Number of CPU processes used for loading data
 NUM_WORKERS = 0
